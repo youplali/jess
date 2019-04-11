@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "jess",
+  "scripts": {
+    "postdeploy": "gradlew jar"
+  },
+  "stack": "heroku-18"
+}
